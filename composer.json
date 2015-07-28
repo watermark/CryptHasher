@@ -1,0 +1,14 @@
+{
+	"name": "watermark_crypthasher",
+	"description": "Blowfish password hasher with fallback for CakePHP2",
+	"type": "cakephp-plugin",
+	"authors": [{
+		"name": "Bryan Clay"
+	}],
+	"require": {
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"installer-name": "CryptHasher"
+	}
+}
