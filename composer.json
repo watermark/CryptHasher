@@ -1,5 +1,5 @@
 {
-	"name": "watermark_crypthasher",
+	"name": "watermark/crypthasher",
 	"description": "Blowfish password hasher with fallback for CakePHP2",
 	"type": "cakephp-plugin",
 	"authors": [{
